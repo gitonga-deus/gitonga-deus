@@ -8,7 +8,7 @@ Also I create RESTful and GraphQL APIs that can handle loads of requests and wil
 - 💬 Ask me about anything code-related, I'm happy to help `¯\_(ツ)_/¯.`
 
 
-<!-- ## Tech Stack:
+## Tech Stack:
 
 <p>
 	<img alt="JS" src="./skill_icons/javascript.svg" width=45px height=45px/>
@@ -17,7 +17,7 @@ Also I create RESTful and GraphQL APIs that can handle loads of requests and wil
 	<img alt="Node JS" src="./skill_icons/node-js.svg" width=45px height=45px/>
 	<img alt="GraphQL" src="./skill_icons/graphql.svg" width=45px height=45px/>
 	<img alt="MongoDB" src="./skill_icons/mongodb.svg" width=45px height=45px/>
-</p> -->
+</p>
 
 <!-- ##  -->
 <!-- 
