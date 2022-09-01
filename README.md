@@ -4,7 +4,7 @@ I'm Deus Gitonga, a Web Developer from Kenya. I create ideas and develop solutio
 
 Also I create RESTful and GraphQL APIs that can handle loads of requests and will never let you down.
 
-- 💼 Any freelance work? Feel free to reach, [email](mailto:gitonga.deus@gmail.com) :
+- 💼 Any freelance work? Feel free to reach, [email](mailto:gitonga.deus@gmail.com).
 - 💬 Ask me about anything code-related, I'm happy to help `¯\_(ツ)_/¯.`
 
 
@@ -19,12 +19,8 @@ Also I create RESTful and GraphQL APIs that can handle loads of requests and wil
 	<img alt="MongoDB" src="./skill_icons/mongodb.svg" width=45px height=45px/>
 </p>
 
-<!-- ##  -->
+<!-- ## 
+<img src="https://github-readme-stats.vercel.app/api?username=gitonga-deus&show_icons=true&hide_border=true&count_private=true&theme=dark" /> -->
+
 <!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=gitonga-deus&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-
-##
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitonga-deus&theme=dark&hide_border=true&layout=compact"/>
-
- -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitonga-deus&theme=dark&hide_border=true&layout=compact"/> -->
