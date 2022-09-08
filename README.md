@@ -18,8 +18,6 @@ Also I create RESTful and GraphQL APIs that can handle loads of requests and wil
 	<img alt="GraphQL" src="./skill_icons/graphql.svg" width=45px height=45px/>
 	<img alt="MongoDB" src="./skill_icons/mongodb.svg" width=45px height=45px/>
 </p>
-
-## 
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=gitonga-deus&show_icons=true&hide_border=true&count_private=true&theme=dark"/> -->
 
 ## 
