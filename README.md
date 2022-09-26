@@ -1,6 +1,6 @@
 # <div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! </div>
 
-I'm Front End Developer from Kenya. I create ideas and develop solutions in the shape of software using <br /> my creativity and technical knowledge. 
+I'm a Front End Developer from Kenya. I create ideas and develop solutions in the shape of software using <br /> my creativity and technical knowledge. 
 
 Also I create RESTful and GraphQL APIs that can handle loads of requests and will never let you down.
 
