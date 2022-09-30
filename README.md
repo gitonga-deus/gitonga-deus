@@ -2,9 +2,8 @@
 
 I'm a Front End Developer from Kenya. I create ideas and develop solutions in the shape of software using <br /> my creativity and technical knowledge. 
 
-Also I create RESTful and GraphQL APIs that can handle loads of requests.
 - 💼 Any freelance work? Feel free to reach, [email](mailto:gitonga.deus@gmail.com).
-- 💬 Ask me about anything code-related, I'm happy to help `¯\_(ツ)_/¯`.
+- 💬 Ask me about anything code-related, I'm happy to help.
 
 
 ## Tech Stack:
