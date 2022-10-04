@@ -17,8 +17,8 @@
 	<img alt="React" src="./skill_icons/react.svg" width=45px height=45px/>
 	<img alt="TypeScript" src="./skill_icons/typescript.svg" width=45px height=45px/>
 	<img alt="Node JS" src="./skill_icons/node-js.svg" width=45px height=45px/>
-	<!---<img alt="GraphQL" src="./skill_icons/graphql.svg" width=45px height=45px/> -->
-	<!--- <img alt="MongoDB" src="./skill_icons/mongodb.svg" width=45px height=45px/> -->
+	<img alt="GraphQL" src="./skill_icons/graphql.svg" width=45px height=45px/>
+	<img alt="MongoDB" src="./skill_icons/mongodb.svg" width=45px height=45px/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=gitonga-deus&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitonga-deus&theme=dark&hide_border=true&layout=compact"/> -->
