@@ -1,24 +1,22 @@
-# <div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! </div>
+# Hello World!
+I'm a Front End Developer and a Blockchain Enthusiast from Kenya.
 
+I like to craft solid and scalable front-end products with great user experiences.
 
-![image](https://user-images.githubusercontent.com/48915064/193859252-54b0271b-190d-4e50-8a47-ec5cdd86328c.png)
+My daily routine consists of (but is not limited to):
+- drinking coffee, 
+- coding, and 
+- overcoming boredom 😉.
 
-<!--- I'm a Front End Developer from Kenya. I create ideas and develop solutions in the shape of software using <br /> my creativity and technical knowledge. 
+Interested in working 💼 together? Feel free to [reach me](mailto:gitonga.deus@gmail.com).
 
-
-- 💼 Any freelance work? Feel free to reach, [email](mailto:gitonga.deus@gmail.com).
-- 💬 Ask me about anything code-related, I'm happy to help.
-
-
-## Tech Stack:
+## Here are the few technologies that I've been working with recently
 
 <p>
-	<img alt="JS" src="./skill_icons/javascript.svg" width=45px height=45px/>
-	<img alt="React" src="./skill_icons/react.svg" width=45px height=45px/>
-	<img alt="TypeScript" src="./skill_icons/typescript.svg" width=45px height=45px/>
-	<img alt="Node JS" src="./skill_icons/node-js.svg" width=45px height=45px/>
-	<img alt="GraphQL" src="./skill_icons/graphql.svg" width=45px height=45px/>
-	<img alt="MongoDB" src="./skill_icons/mongodb.svg" width=45px height=45px/>
+ <img alt="JS" title="JavaScript" src="./skill_icons/javascript.svg" width="45px" height>
+ <img alt="React" title="React" src="./skill_icons/react.svg" width="45px" height="45px"/>
+ <img alt="TypeScript" title="TypeScript" src="./skill_icons/typescript.svg" width="45px" height=""45px""/>
+ <img alt="Node.js" title="Node.js" src="./skill_icons/node-js.svg" width=45px height=""45px""/>
+ <!-- <img alt="GraphQL" src="./skill_icons/graphql.svg" width="45px" height="45px"/>
+ <img alt="MongoDB" src="./skill_icons/mongodb.svg" width="45px" height="45px"/> -->
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=gitonga-deus&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitonga-deus&theme=dark&hide_border=true&layout=compact"/> -->
