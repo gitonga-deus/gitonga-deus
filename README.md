@@ -10,13 +10,11 @@ My daily routine consists of (but is not limited to):
 
 Interested in working 💼 together? Feel free to [reach me](mailto:gitonga.deus@gmail.com).
 
-## Here are the few technologies that I've been working with recently
+## Proficient in: 
 
 <p>
  <img alt="JS" title="JavaScript" src="./skill_icons/javascript.svg" width="45px" height>
  <img alt="React" title="React" src="./skill_icons/react.svg" width="45px" height="45px"/>
  <img alt="TypeScript" title="TypeScript" src="./skill_icons/typescript.svg" width="45px" height=""45px""/>
  <img alt="Node.js" title="Node.js" src="./skill_icons/node-js.svg" width=45px height=""45px""/>
- <!-- <img alt="GraphQL" src="./skill_icons/graphql.svg" width="45px" height="45px"/>
- <img alt="MongoDB" src="./skill_icons/mongodb.svg" width="45px" height="45px"/> -->
 </p>
